@@ -12,9 +12,9 @@
 </head>
 <body>
 
-<section class="grocerylist">
-    <div class="grocerylis__headline">
-        <h1 class="grocerylist__headline__text">Indkøbsliste</h1>
+<section class="header bg-primary d-flex">
+    <div class="header__headline justify-content-end">
+        <h1 class="header__headline__text ">Indkøbsliste</h1>
     </div>
 </section>
 
